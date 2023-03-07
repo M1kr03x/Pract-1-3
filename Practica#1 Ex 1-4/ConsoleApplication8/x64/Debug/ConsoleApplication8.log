@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\M1kr0\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(22,16): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication8.vcxproj -> C:\Users\M1kr0\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
