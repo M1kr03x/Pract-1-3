@@ -1,0 +1,15 @@
+C:\Users\M1kr0\source\repos\FirstSharp\bin\Debug\net6.0\FirstSharp.exe
+C:\Users\M1kr0\source\repos\FirstSharp\bin\Debug\net6.0\FirstSharp.deps.json
+C:\Users\M1kr0\source\repos\FirstSharp\bin\Debug\net6.0\FirstSharp.runtimeconfig.json
+C:\Users\M1kr0\source\repos\FirstSharp\bin\Debug\net6.0\FirstSharp.dll
+C:\Users\M1kr0\source\repos\FirstSharp\bin\Debug\net6.0\FirstSharp.pdb
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.csproj.AssemblyReference.cache
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.AssemblyInfoInputs.cache
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.AssemblyInfo.cs
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.csproj.CoreCompileInputs.cache
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.dll
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\refint\FirstSharp.dll
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.pdb
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\FirstSharp.genruntimeconfig.cache
+C:\Users\M1kr0\source\repos\FirstSharp\obj\Debug\net6.0\ref\FirstSharp.dll

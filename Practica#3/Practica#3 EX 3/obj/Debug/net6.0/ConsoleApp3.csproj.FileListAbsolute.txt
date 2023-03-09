@@ -1,0 +1,15 @@
+A:\CoWa\PR3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+A:\CoWa\PR3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+A:\CoWa\PR3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+A:\CoWa\PR3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+A:\CoWa\PR3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+A:\CoWa\PR3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
